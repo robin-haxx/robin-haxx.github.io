@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+
+    <title>Kingslayer</title>
+
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body oncontextmenu="return false;">
+    <pre id="terminal"></pre>
+    > <input id="term_input" type="text" spellcheck="false" autofocus>
+
+    <script type="module" src="index.js"></script>
+</body>
+</html>
